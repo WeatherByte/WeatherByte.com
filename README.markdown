@@ -8,11 +8,14 @@ Folders:
 ###System###
 This is the main Kohana goodness. Don't edit these files or bad things will happen!
 
-###www-ststic###
+###www-static###
 All static content is served from here (JS, CSS etc.).
 
-###www-dynamic###
-All the dynamic HTML comes from here.
+###www-site###
+All the dynamic HTML for the main site comes from here.
+
+###www-api###
+All the API requests are handled from here.
 
 ###application###
 This is the WeatherByte Kohana app folder.
